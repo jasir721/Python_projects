@@ -1,2 +1,2 @@
 # Python_projects
-Basic python projects using GUI.
+Python projects using GUI,API's, web scraping, web development, and machine learning.
