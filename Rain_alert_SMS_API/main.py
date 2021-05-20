@@ -6,11 +6,11 @@
 import requests
 from twilio.rest import Client
 End_point="https://api.openweathermap.org/data/2.5/onecall"
-api_key="5169fd925017438b782fb55fccbc3563"
+api_key="#####"
 LAT="28.066700"
 LON="95.327500"
 account_sid = "ACfe1520255d2898e4951a9a528e49ea49"
-auth_token ="520a7490e80c4ad44411e53dbe68256e"
+auth_token ="#####"
 weather_params = {
     "lat":LAT,
     "lon":LON,
